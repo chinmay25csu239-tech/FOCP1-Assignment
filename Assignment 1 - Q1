@@ -1,6 +1,0 @@
-#include <stdio.h>
-int main(){
-    printf("Coming Soon! \n");
-    printf("Student Yet to upload this file!");
-    return 0;
-}
